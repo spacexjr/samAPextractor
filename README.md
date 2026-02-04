@@ -1,5 +1,7 @@
-Samsung AP Extractor Pro 📱⚙️
-O Samsung AP Extractor Pro é uma ferramenta gráfica desenvolvida em Python para simplificar o processo de extração e descompressão de partições de arquivos de firmware da Samsung (geralmente o arquivo AP_xxx.tar.md5).
+# Samsung AP Extractor📱⚙️
+
+
+O Samsung AP Extractor é uma ferramenta gráfica desenvolvida em Python para simplificar o processo de extração e descompressão de partições de arquivos de firmware da Samsung (geralmente o arquivo AP_xxx.tar.md5).
 
 Ele automatiza a extração do contêiner .tar e a descompressão simultânea do formato .lz4, transformando os arquivos em imagens .img prontas para uso.
 
